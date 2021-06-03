@@ -1,0 +1,105 @@
+﻿question,type,qno
+Has trouble staying focused on one thing at a time.,INATTENTION,1
+Has short attention span.,INATTENTION,2
+Avoids or dislikes things that take a lot of effort and are not fun.,INATTENTION,3
+Has trouble concentrating.,INATTENTION,4
+Doesn’t pay attention to details; makes careless mistakes.,INATTENTION,5
+Has trouble changing from one activity to another.,INATTENTION,6
+"Inattentive, easily distracted.",INATTENTION,7
+Gets bored.,INATTENTION,8
+Gives up easily on difficult tasks.,INATTENTION,9
+Has trouble keeping his/her mind on work or play for long.,INATTENTION,10
+Restless or overactive.,HYPERACTIVITY/IMPUSLIVITY,11
+Fidgets or squirms in seat.,HYPERACTIVITY/IMPUSLIVITY,12
+Blurts out answers before the question has been completed.,HYPERACTIVITY/IMPUSLIVITY,13
+Is constantly moving.,HYPERACTIVITY/IMPUSLIVITY,14
+"Excitable, impulsive.",HYPERACTIVITY/IMPUSLIVITY,15
+Gets over-stimulated.,HYPERACTIVITY/IMPUSLIVITY,16
+Acts as if driven by a motor.,HYPERACTIVITY/IMPUSLIVITY,17
+Blurts out the first thing that comes to mind.,HYPERACTIVITY/IMPUSLIVITY,18
+Has difficulty waiting for his/her turn.,HYPERACTIVITY/IMPUSLIVITY,19
+Runs or climbs when he/she is not supposed to.,HYPERACTIVITY/IMPUSLIVITY,20
+Is noisy and loud when playing or using free time.,HYPERACTIVITY/IMPUSLIVITY,21
+Leaves seat when he/she should stay seated.,HYPERACTIVITY/IMPUSLIVITY,22
+"Interrupts others (for example, butts into conversations or games).",HYPERACTIVITY/IMPUSLIVITY,23
+Spelling is poor.,LEARNING PROBLEMS,24
+Does not understand what he/she reads.,LEARNING PROBLEMS,25
+Forgets things already learned.,LEARNING PROBLEMS,26
+Has trouble with reading.,LEARNING PROBLEMS,27
+Needs extra explanation of instructions.,LEARNING PROBLEMS,28
+" Learns information as separate facts; does not “get the big picture.""",LEARNING PROBLEMS,29
+Reads slowly and with a lot of effort.,LEARNING PROBLEMS,30
+Cannot grasp arithmetic,LEARNING PROBLEMS,31
+Is bad at memorizing facts.,LEARNING PROBLEMS,32
+Fails to finish things he/she starts.,EXECUTIVE FUNCTIONING,33
+Has trouble getting started on tasks or projects.,EXECUTIVE FUNCTIONING,34
+Completes projects at the last minute.,EXECUTIVE FUNCTIONING,35
+Forgets to turn in completed work.,EXECUTIVE FUNCTIONING,36
+Cannot planning ahead.,EXECUTIVE FUNCTIONING,37
+Forgets to turn in completed work.,EXECUTIVE FUNCTIONING,38
+Has trouble organizing tasks or activities.,EXECUTIVE FUNCTIONING,39
+Is messy or disorganized.,EXECUTIVE FUNCTIONING,40
+Loses things,EXECUTIVE FUNCTIONING,41
+"Bullies, threatens, or scares others.",AGGRESSION,42
+Is cold-hearted and cruel.,AGGRESSION,43
+"Uses a weapon (for example, a bat, brick, broken bottle, knife, or gun).",AGGRESSION,44
+Starts fights with others on purpose.,AGGRESSION,45
+Physically hurts people.,AGGRESSION,46
+Tells lies to hurt other people.,AGGRESSION,47
+Is angry and resentful.,AGGRESSION,48
+Tries to get even with people.,AGGRESSION,49
+"Steals secretly (for example, shoplifting or forgery).",AGGRESSION,50
+Intentionally damages or destroys things that belong to others,AGGRESSION,51
+Threatens to hurt others,AGGRESSION,52
+Swears or uses bad language,AGGRESSION,53
+Actively refuses to do what adults tell him/her to do.,AGGRESSION,54
+Argues with adults.,AGGRESSION,55
+Does not get invited to play or go out with others.,PEER RELATIONS,56
+Has no friends.,PEER RELATIONS,57
+Has trouble keeping friends.,PEER RELATIONS,58
+Is one of the last to be picked for teams or games.,PEER RELATIONS,59
+Doesn’t interact well with other children/peers.,PEER RELATIONS,60
+Does not know how to make friends.,PEER RELATIONS,61
+Doesn’t pay attention to details; makes careless mistakes.,ADHD Predominantly Inattentive Type,62
+Has trouble keeping his/her mind on work or play for long.,ADHD Predominantly Inattentive Type,63
+Does not seem to listen to what is being said to him/her,ADHD Predominantly Inattentive Type,64
+Does not follow through on instructions,ADHD Predominantly Inattentive Type,65
+"Fails to complete schoolwork, chores, or tasks",ADHD Predominantly Inattentive Type,66
+Has trouble organizing tasks or activities,ADHD Predominantly Inattentive Type,67
+Avoids or dislikes things that take a lot of effort and are not fun.,ADHD Predominantly Inattentive Type,68
+Loses things,ADHD Predominantly Inattentive Type,69
+Is easily distracted by sights or sounds.,ADHD Predominantly Inattentive Type,70
+Is forgetful in daily activities.,ADHD Predominantly Inattentive Type,71
+Fidgets or squirms in seat.,Hyperactivity,72
+Leaves seat when he/she should stay seated.,Hyperactivity,73
+Runs or climbs when he/she is not supposed to.,Hyperactivity,74
+Restless or overactive.,Hyperactivity,75
+Is noisy and loud when playing or using free time.,Hyperactivity,76
+Acts as if driven by a motor.,Hyperactivity,77
+Is constantly moving.,Hyperactivity,78
+Talks too much.,Hyperactivity,79
+Blurts out answers before the question has been completed.,Impulsivity,80
+Has difficulty waiting for his/her turn.,Impulsivity,81
+"Interrupts others (for example, butts into conversations )",Impulsivity,82
+"Bullies, threatens, or scares others.",Conduct Disorder,83
+Starts fights with others on purpose.,Conduct Disorder,84
+"Uses a weapon,",Conduct Disorder,85
+Physically hurts people.,Conduct Disorder,86
+Is cruel to animals.,Conduct Disorder,87
+"Steals while confronting a person (for example, mugging).",Conduct Disorder,88
+Has intentionally set fires for the purpose of causing damage.,Conduct Disorder,89
+Intentionally damages or destroys things that belong to others.,Conduct Disorder,90
+"Has broken into someone else’s house, building, or car.",Conduct Disorder,91
+Lies to avoid having to do something or to get things.,Conduct Disorder,92
+"Steals secretly (for example, shoplifting or forgery).",Conduct Disorder,93
+Goes out at night even though it breaks the rules.,Conduct Disorder,94
+Runs away from home for at least one night.,Conduct Disorder,95
+Skips classes.,Conduct Disorder,96
+Loses temper.,Oppositional Defiant Disorder,97
+Argues with adults.,Oppositional Defiant Disorder,98
+Actively refuses to do what adults tell him/her to do.,Oppositional Defiant Disorder,99
+Annoys other people on purpose.,Oppositional Defiant Disorder,100
+Blames others for his/her mistakes or misbehavior.,Oppositional Defiant Disorder,101
+Is irritable and easily annoyed by others.,Oppositional Defiant Disorder,102
+Is angry and resentful.,Oppositional Defiant Disorder,103
+Tries to get even with people.,Oppositional Defiant Disorder,104
